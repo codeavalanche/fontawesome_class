@@ -1,0 +1,37 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.yellow {
+    background-color: yellow;
+    width: 200px;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+ul li {
+    list-style: none;
+}
+ul li i {
+    padding-right: 10px;
+    margin-top: 30px;
+}
+.fa-facebook {
+    color: blue;
+}
+.fa-linkedin-in {
+    color: blue;
+}
+.fa-youtube {
+    color: red;
+}
+.fa-twitter {
+    color: blue;
+}
+.fa-pinterest {
+    color: red;
+}
+.fa-whatsapp {
+    color: green;
+}
